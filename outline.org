@@ -1,0 +1,293 @@
+#+OVERVIEW
+#+TITLE: Untitled
+
+* 计算机简史
+
+** 人物
+
+*** Alan Mathison Turing
+
+**** 八卦
+     - 哈代的徒弟
+       - 丢番图逼近、堆垒数论、素数分布、黎曼猜想
+         - 各种数论是密码学的基础，互动活动里跟客户联调的时候就要用到。我们目前用的是古典的对称密钥算法，推荐使用非对称密钥算法。
+       - 拉马努金
+         - 他是一个人在战斗。
+
+     - 马拉松 2:46:03
+       - 比1948年奥林匹克运动会金牌成绩慢11分钟。1948年的一次跨国赛跑比赛中，他跑赢了同年奥运会银牌得主汤姆·理查兹（Tom Richards）。
+
+     - 氰化物苹果自杀
+       - 化学阉割受辱。
+
+     - 男朋友
+       - 据说 Turing 的《论可计算数及其在判定问题上的应用》有不少内容是他男朋友贡献的。
+
+     - 性感的卷福
+       - [[http://movie.douban.com/subject/10463953/][The Imitation Game]]
+
+**** 图灵机
+     - 简单介绍一下即可，最后一章再讲
+     - Wow，判定问题（深刻的哲学）
+
+**** Reading
+     - [[http://www.guokr.com/article/241816/][为什么每个人都该知道阿兰·图灵]]
+     - 《图灵的秘密》
+
+*** John Von Neumann
+
+**** 领域
+     集合论、几何、测量理论、网格理论、博弈论、量子物理、数学经济学、统计学、核武器、原子能委员会、计算理论、流体动力学
+
+**** 计算机体系
+     - 算术计算器
+     - 控制器
+     - 存储器
+     - 输入
+     - 输出
+
+**** 八卦
+     - 政治敏感
+     - 结了两次婚
+     - 兴趣广泛
+     - 社交广泛
+     - 穿正装
+     - 吃货
+
+**** Reading
+     - 《三体》
+
+** 硬件发展
+
+*** G1 机械、电动机械(mechanical/eletromechanical)
+    - [[http://en.wikipedia.org/wiki/Computer#History_of_computing_hardware][History of Computer Hardware]]
+
+*** G2 真空管(vacuum tubes)
+
+**** ENIAC/EDVAC
+     - 卡片
+     - 氢弹
+
+*** G3 晶体管、集成电路(transistor, integrated circuit)
+
+**** PDP-11
+
+*** G4 超大规模集成电路(Very-large-scale Integration)
+    VAX、386、486、586、x86、x86\_64、Desktop Computer、Laptop、Wearable Computer
+
+*** 未来
+    - 量子计算机(Quantum computer)
+    - 化学计算机(Chemical computer)
+    - DNA 计算机(DNA computing)
+    - 光子计算机(Optical computer)
+    - Spintronics based computer
+    - 人列计算机
+
+** 操作系统发展
+   又是一长串故事哟
+   [[http://en.wikipedia.org/wiki/Computer#Software][Computer Software]]
+
+*** Unix and BSD
+    - VI(sual editor) (i)M(proved)
+    - E(ditor) MAC(ro)S
+    - [[http://en.wikipedia.org/wiki/Unix_philosophy][Unix Philosophy]]
+
+*** GNU/Linux
+
+*** Microsoft Windows
+
+*** Mac OS
+
+*** Embedded and Realtime
+
+* 告别 Windows
+
+** Why
+   - 漂亮姑娘首选
+   - $$$
+   - 省心
+   - 无病毒
+   - 交互设计好
+   - iOS 生态圈
+     - 谁用谁知道
+   - 高效
+     - 大部分深爱 Linux 的人，一有钱就去找 MacBook 了
+   - 情怀
+
+** How
+
+*** Alternatives
+
+**** Word vs Pages
+
+**** Excel vs Numbers
+
+**** PowerPoint vs Keynotes
+
+**** Installations
+
+**** Exception
+     - Internet Explorer
+     - Games
+
+**** Q&A
+
+** Homework
+   想想你平时在 Windows 下经常做，但是在 Mac OS X 下做不了的事。
+
+* Cooler than Cooler
+
+** 运指如飞
+
+*** 常见快捷键
+|----------+------------------------------------|
+| Key      | Function                           |
+|----------+------------------------------------|
+| /        | <>                                 |
+|----------+------------------------------------|
+| ⌘c       | 复制                               |
+| ⌘v       | 粘贴                               |
+| ⌘m       | 最小化当前窗口                     |
+| ⌘q       | 退出程序                           |
+| ⌘<tab>   | 在应用程序之间切换                 |
+| ⌘`       | 在同一个应用程序的不同窗口之间切换 |
+| ⌘n       | 创建新窗口                         |
+| ⌘w       | 关闭当前窗口                       |
+| ⌘<space> | Spotlight (非默认)                 |
+| ^<space> | 切换输入法 (非默认)                |
+|----------+------------------------------------|
+
+*** Emacs Key Binding (Very useful)
+|-----+----------------------------|
+| Key | Function                   |
+|-----+----------------------------|
+| /   | <>                         |
+|-----+----------------------------|
+| ^n  | 移动到下一行               |
+| ^p  | 移动到上一行               |
+| ^a  | 移动到行首                 |
+| ^e  | 移动到行尾                 |
+| ^f  | 向前移动一个字符           |
+| ^b  | 向后移动一个字符           |
+| ^k  | 删除从光标到行尾的所有字符 |
+| ^y  | 召回 ^k 删除的内容         |
+|-----+----------------------------|
+
+*** Chrome
+|----------+-----------------------|
+| Key      | Function              |
+|----------+-----------------------|
+| /        | <>                    |
+|----------+-----------------------|
+| ⌘n       | 创建新窗口            |
+| ⌘t       | 创建新标签页          |
+| ⌘<tab>   | 跳到下一个标签页      |
+| ⌘⇧<tab>  | 跳到上一个标签页      |
+| ⌘⇧f      | Presentation Mode     |
+| ⌘^f      | 全屏                  |
+| ⌘l       | 跳到地址栏            |
+| ⌘w       | 关闭标签页            |
+| ⌘(1...8) | 跳到第(1...8)个标签页 |
+| ⌘9       | 跳到最后一个标签页    |
+| ⌘-       | 缩小                  |
+| ⌘=       | 放大                  |
+| ⌘0       | 恢复100%比例          |
+|----------+-----------------------|
+
+** 扔掉鼠标
+   - Vimium
+|-----+----------------------------------|
+| Key | Function                         |
+|-----+----------------------------------|
+| /   | <>                               |
+|-----+----------------------------------|
+| j   | 向下滚动                         |
+| k   | 向上滚动                         |
+| h   | 向左滚动                         |
+| l   | 向右滚动                         |
+| d   | 下翻一页                         |
+| u   | 上翻一页                         |
+| J   | 上一个标签页                     |
+| K   | 下一个标签页                     |
+| H   | 后退                             |
+| L   | 前进                             |
+| gg  | 跳到页首                         |
+| G   | 跳到页尾                         |
+| f   | 在当前标签页打开超链接（超级酷） |
+| F   | 在新标签页打开超链接（超级酷）   |
+| gi  | 跳到页面第一个文本输入框         |
+| x   | 关闭当前标签页                   |
+| \/  | 查找模式                         |
+| t   | 创建新标签页                     |
+| ?   | 好玩的都在这里面                 |
+|-----+----------------------------------|
+
+   - Spotlight
+   - Quicksilver
+
+** 科学上网
+   It is not good enough of a website if it is not blocked by the Great F**king Wall.
+
+** 试试终端
+   Everything is a line of code.
+
+** Google
+
+* M$ Office 技巧
+
+* 折腾操作系统
+
+* 虚拟机
+
+* 程序媛
+
+** Hello World!
+   - Python
+
+** HTML/CSS/JavaScript
+   - Chrome 浏览器控制台
+
+* 来当志愿者吧
+  lctt
+
+* 唔，哲学
+
+** Couple
+
+** Turing Machine
+
+** Completely Automated Public Turing Test to Tell Computers and Humans
+   - 中文屋子
+   - 先生，请问你怎么向别人证明你存在自我意识呢
+
+** Artificial Intelligence
+   - 机器人三定律（阿西莫夫）
+   - 演化
+   - 说谎的 AI
+   - Steve Jobs
+   - 超级智慧
+
+** 机械唯物主义
+   - 停机问题
+   - Contour, Russell, Gödel
+
+** 上帝呵呵笑
+   - 只有 Matrix 才是真实存在的
+   - 缸中之脑
+
+** 未必
+   - 也许连缸和脑都不存在
+
+** Further More
+   - 整个宇宙就是一台图灵机
+   - 时空离散化（Plaunk）
+
+** And Then?
+   - 宇宙那么大，我想出去看看
+   -
+
+* Reading
+  《皇帝新脑》
+  《哥德尔 埃舍尔 巴赫 集异璧之大成》
+  《上帝掷骰子吗》
+  《三体》
