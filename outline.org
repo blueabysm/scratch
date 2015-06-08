@@ -20,7 +20,7 @@
      - 氰化物苹果自杀
        - 化学阉割受辱。
 
-     - 男朋友
+     - 男盆友
        - 据说 Turing 的《论可计算数及其在判定问题上的应用》有不少内容是他男朋友贡献的。
 
      - 性感的卷福
@@ -73,7 +73,7 @@
 **** PDP-11
 
 *** G4 超大规模集成电路(Very-large-scale Integration)
-    VAX、386、486、586、x86、x86\_64、Desktop Computer、Laptop、Wearable Computer
+    VAX、386、486、586、x86、x86_64、Desktop Computer、Laptop、Wearable Computer
 
 *** 未来
     - 量子计算机(Quantum computer)
@@ -106,7 +106,7 @@
    - 漂亮姑娘首选
    - $$$
    - 省心
-   - 无病毒
+   - Virus Free
    - 交互设计好
    - iOS 生态圈
      - 谁用谁知道
@@ -129,6 +129,8 @@
 **** Exception
      - Internet Explorer
      - Games
+
+**** Shopping
 
 **** Q&A
 
@@ -196,42 +198,60 @@
 
 ** 扔掉鼠标
    - Vimium
-|-----+----------------------------------|
-| Key | Function                         |
-|-----+----------------------------------|
-| /   | <>                               |
-|-----+----------------------------------|
-| j   | 向下滚动                         |
-| k   | 向上滚动                         |
-| h   | 向左滚动                         |
-| l   | 向右滚动                         |
-| d   | 下翻一页                         |
-| u   | 上翻一页                         |
-| J   | 上一个标签页                     |
-| K   | 下一个标签页                     |
-| H   | 后退                             |
-| L   | 前进                             |
-| gg  | 跳到页首                         |
-| G   | 跳到页尾                         |
-| f   | 在当前标签页打开超链接（超级酷） |
-| F   | 在新标签页打开超链接（超级酷）   |
-| gi  | 跳到页面第一个文本输入框         |
-| x   | 关闭当前标签页                   |
-| \/  | 查找模式                         |
-| t   | 创建新标签页                     |
-| ?   | 好玩的都在这里面                 |
-|-----+----------------------------------|
+|---+-----+----------------------------------|
+|   | Key | Function                         |
+|---+-----+----------------------------------|
+| / | <>  | <>                               |
+|---+-----+----------------------------------|
+|   | j   | 向下滚动                         |
+|   | k   | 向上滚动                         |
+|   | h   | 向左滚动                         |
+|   | l   | 向右滚动                         |
+|   | d   | 下翻一页                         |
+|   | u   | 上翻一页                         |
+|   | J   | 上一个标签页                     |
+|   | K   | 下一个标签页                     |
+|   | H   | 后退                             |
+|   | L   | 前进                             |
+|   | gg  | 跳到页首                         |
+|   | G   | 跳到页尾                         |
+|   | f   | 在当前标签页打开超链接（超级酷） |
+|   | F   | 在新标签页打开超链接（超级酷）   |
+|   | gi  | 跳到页面第一个文本输入框         |
+|   | x   | 关闭当前标签页                   |
+|   | /   | 查找模式                         |
+|   | t   | 创建新标签页                     |
+|   | ?   | 好玩的都在这里面                 |
+|---+-----+----------------------------------|
 
    - Spotlight
+     - Flashlight
    - Quicksilver
 
 ** 科学上网
    It is not good enough of a website if it is not blocked by the Great F**king Wall.
+   - Proxy
+   - 现成软件，自由门 blablabla
+   - VPN
 
 ** 试试终端
    Everything is a line of code.
 
 ** Google
+
+   https://support.google.com/websearch/answer/2466433?hl=en
+
+
+*** others
+    https://news.google.com/newspapers?hl=en
+    rice vs. noodles
+
+*** funny
+    [[http://www.cbsnews.com/pictures/17-amazing-google-easter-eggs/5/][easter eggs]]
+    elgoog
+    doodle
+    scholar
+    igoogle
 
 * M$ Office 技巧
 
@@ -256,7 +276,7 @@
 
 ** Turing Machine
 
-** Completely Automated Public Turing Test to Tell Computers and Humans
+** Completely Automated Public Turing Test to Tell Computers and Humans Apart
    - 中文屋子
    - 先生，请问你怎么向别人证明你存在自我意识呢
 
@@ -271,7 +291,7 @@
    - 停机问题
    - Contour, Russell, Gödel
 
-** 上帝呵呵笑
+** 上帝视角
    - 只有 Matrix 才是真实存在的
    - 缸中之脑
 
@@ -280,13 +300,13 @@
 
 ** Further More
    - 整个宇宙就是一台图灵机
-   - 时空离散化（Plaunk）
+   - 时空离散化（Planck）
 
 ** And Then?
    - 宇宙那么大，我想出去看看
    -
 
-* Reading
+** Reading
   《皇帝新脑》
   《哥德尔 埃舍尔 巴赫 集异璧之大成》
   《上帝掷骰子吗》
